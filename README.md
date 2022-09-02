@@ -60,10 +60,11 @@
     
     
     
-<h1 align="center">More:</h1>
+<h1 align="center"></h1>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipinbhandari&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dipinbhandari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipinbhandari&show_icons=true&locale=en&theme=tokyonight" alt="dipinbhandari" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dipinbhandari&show_icons=true&locale=en&theme=tokyonight" alt="dipinbhandari" /></p>
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipinbhandari&&theme=tokyonight" alt="dipinbhandari" /></p>
 <br/>
