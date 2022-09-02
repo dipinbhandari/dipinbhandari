@@ -1,20 +1,18 @@
-### Hi there 👋
-It's me Dipin Bhandari
-
-<!--
-**dipinbhandari/dipinbhandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
 
 <h1 align="center">Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
     <br>
-    It's me Dipin Bhandari
+    It's me Dipin Bhandari <br>
+    A passionate Backend developer from Nepal.
+    
 <br> 
     <br>
-    <background>
-    Bsc.(Hons) Computing.
+    
+    
+    
+    
+    
+    <<Study-Background>>
+    Bsc.(Hons)Computing.
     
     << University >>
     London Metropolitian University.
@@ -28,13 +26,10 @@ It's me Dipin Bhandari
       - 🔭 I’m currently working on Python, Flask & Django.
       - 🌱 I’m currently intern at bytecare technology as a backend django developer.
       - 🌱 I’m currently learning AI, Python & Backend django.
-      - 👯 I’m looking to collaborate on Django.
-      - 📫 How to reach me: Facebook & github.
-      - 🤔 I’m looking for help with AI & machine learning.
-      - 💬 Ask me about django, java, python, software architecture & Database.
-      - 😄 Pronouns: He/His
+      - 👯 I’m looking to collaborate on Backend Django.
+
 <br/>
-<h1 align="center">🚀 Languages & Tools I'm Using in my dailylife.</h1>
+<h1 align="center">🚀 Languages & Tools I'm Using.</h1>
 
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
@@ -55,17 +50,22 @@ It's me Dipin Bhandari
 <h1 align="center">Connect with me:</h1>
 
 <p align="center">
-<a href = "https://www.facebook.com/dipin.bhandari.3/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
-<a href = "https://github.com/dipinbhandari"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+       <a href = "https://www.facebook.com/dipin.bhandari.3/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+       <a href = "https://github.com/dipinbhandari"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 </p>
 
 <br/>
     
     
     
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipinbhandari&show_icons=true&locale=en&layout=compact" alt="dipinbhnadari" /></p>
+    
+    
+<h1 align="center">More:</h1>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipinbhandari&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dipinbhandari" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipinbhandari&show_icons=true&locale=en&theme=tokyonight" alt="dipinbhandari" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipinbhandari&&theme=tokyonight" alt="dipinbhandari" /></p>
 <br/>
 
 <h1 align="center"> ❤ Views and Followers</h1>
