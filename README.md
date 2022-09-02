@@ -4,18 +4,6 @@ It's me Dipin Bhandari
 <!--
 **dipinbhandari/dipinbhandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 
 
@@ -40,10 +28,13 @@ Here are some ideas to get you started:
       - 🔭 I’m currently working on Python, Flask & Django.
       - 🌱 I’m currently intern at bytecare technology as a backend django developer.
       - 🌱 I’m currently learning AI, Python & Backend django.
-      - 👯 I’m looking to collaborate on Backend Django.
-
+      - 👯 I’m looking to collaborate on Django.
+      - 📫 How to reach me: Facebook & github.
+      - 🤔 I’m looking for help with AI & machine learning.
+      - 💬 Ask me about django, java, python, software architecture & Database.
+      - 😄 Pronouns: He/His
 <br/>
-<h1 align="center">🚀 Tools I'm Using.</h1>
+<h1 align="center">🚀 Languages & Tools I'm Using in my dailylife.</h1>
 
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
@@ -72,7 +63,8 @@ Here are some ideas to get you started:
     
     
     
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipinbhandari&show_icons=true&locale=en&layout=compact" alt="dipinbhnadari" /></p>
+
 
 <br/>
 
