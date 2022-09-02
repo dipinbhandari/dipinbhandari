@@ -22,7 +22,7 @@
 
 <h3 align="center">"Success is not final, failure is not fatal: it is the courage to continue that counts."</h3>
 
-  ## <h1>🙋‍♂️concerning me</h1>
+  ## <h1>🙋‍♂️About me</h1>
       - 🔭 I’m currently working on Python, Flask & Django.
       - 🌱 I’m currently intern at bytecare technology as a backend django developer.
       - 🌱 I’m currently learning AI, Python & Backend django.
