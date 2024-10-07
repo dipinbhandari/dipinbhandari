@@ -12,10 +12,10 @@
     
     
     <<Study-Background>>
-    Bsc.(Hons)Computing.
+    Msc. Computer Science
     
     << University >>
-    London Metropolitian University.
+    University of east london.
 </h1>
     
    
