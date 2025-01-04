@@ -11,7 +11,6 @@
     
     
     <<Study-Background>>
-    
     Msc. Computer Science (Present)
     University of east london.
 
