@@ -11,10 +11,13 @@
     
     
     <<Study-Background>>
-    Msc. Computer Science (Present)
     
-    << University >>
+    Msc. Computer Science (Present)
     University of east london.
+
+    BSc.(Hons)Computing
+    London Metropolitian university
+    
 </h1>
     
    
