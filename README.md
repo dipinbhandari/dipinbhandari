@@ -2,8 +2,7 @@
 <h1 align="center">Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
     <br>
     It's me Dipin Bhandari <br>
-    A passionate Backend developer from Nepal.
-    
+
 <br> 
     <br>
     
@@ -12,7 +11,7 @@
     
     
     <<Study-Background>>
-    Msc. Computer Science
+    Msc. Computer Science (Present)
     
     << University >>
     University of east london.
@@ -24,9 +23,9 @@
 
   ## <h1>🙋‍♂️About me</h1>
       - 🔭 I’m currently working on Python, Flask & Django.
-      - 🌱 I’m currently intern at bytecare technology as a backend django developer.
-      - 🌱 I’m currently learning AI, Python & Backend django.
-      - 👯 I’m looking to collaborate on Backend Django.
+      - 🌱 I’m currently learning Big Data, Advanced Software Engineering,
+            Cloud Computing, AI, Python & Backend django.
+
 
 <br/>
 <h1 align="center">🚀 Languages & Tools I'm Using.</h1>
