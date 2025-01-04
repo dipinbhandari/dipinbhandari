@@ -16,7 +16,7 @@
     University of east london.
 
     BSc.(Hons)Computing
-    London Metropolitian university
+    London Metropolitian university.
     
 </h1>
     
